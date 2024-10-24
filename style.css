@@ -1,0 +1,46 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+.banner {
+    width: 100%;
+    background: antiquewhite;
+    height: 100vh;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    color: rgb(255, 194, 39);
+}
+
+.main {
+    background-color: green;
+    padding: 20px;
+    width: 340px;
+    height: 400px;
+}
+
+.file_video,
+.file_rasm {
+    margin: 20px 0;
+    color: #fff;
+}
+
+.inputin {
+    width: 200px;
+    height: 30px;
+    border-radius: 8px;
+    padding: 5px;
+    margin: 20px 0;
+}
+
+.btn {
+    width: 130px;
+    height: 40px;
+    background-color: blue;
+    border: none;
+    border-radius: 8px;
+    color: #fff;
+    font-size: 17px;
+}
